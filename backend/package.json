@@ -1,0 +1,31 @@
+{
+  "name": "twitter-helpdesk",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "Boby tudu",
+  "license": "MIT",
+  "scripts": {
+    "start": "node start"
+  },
+  "dependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/plugin-transform-runtime": "^7.11.5",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/register": "^7.11.5",
+    "@babel/runtime": "^7.11.2",
+    "body-parser": "^1.19.0",
+    "connect-ensure-login": "^0.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "express-session": "^1.16.1",
+    "mongoose": "^5.10.5",
+    "morgan": "^1.9.1",
+    "passport": "^0.4.0",
+    "passport-twitter": "^1.0.4",
+    "socket.io": "^2.3.0",
+    "twit": "^2.2.11"
+  }
+}

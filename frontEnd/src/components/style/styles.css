@@ -1,0 +1,15 @@
+.icon:hover{
+    background-color: lightgray;
+    color:black
+}
+.icon{
+    color:#6C757D;
+    cursor: pointer;
+}
+
+.loginBtn:hover{
+    color:white;
+    background-color: #007BFF;
+}
+.font12{font-size: 12px;}
+.font9{font-size: 9px;}
